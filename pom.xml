@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.alipay.sofa</groupId>
         <artifactId>sofaboot-dependencies</artifactId>
-        <version>3.2.0</version>
+        <version>3.16.3</version>
     </parent>
     <groupId>com.alipay.sofa</groupId>
     <artifactId>sofa-boot-guides</artifactId>
@@ -22,10 +22,10 @@
 
     <modules>
         <module>sofaboot-sample</module>
-        <module>sofaboot-sample-standard</module>
-        <module>sofaboot-sample-with-isle</module>
-        <module>sofaboot-sample-with-isolation</module>
-        <module>sofaboot-sample-with-rpc</module>
+<!--        <module>sofaboot-sample-standard</module>-->
+<!--        <module>sofaboot-sample-with-isle</module>-->
+<!--        <module>sofaboot-sample-with-isolation</module>-->
+<!--        <module>sofaboot-sample-with-rpc</module>-->
     </modules>
 
     <dependencies>
